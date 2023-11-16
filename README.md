@@ -1,1 +1,1 @@
-# students_record_fetching_Api__using_django
+# students_record_fetching_Api_using_django_rest_framework
